@@ -1,5 +1,4 @@
-//let h1text = document.querySelector("#parrafo")
-//h1text.innerHTML= 
+
 let masa= Number (prompt("Introsuzca su masa en kg"))
 let estatura= Number(prompt("Introduzca su estatura en m"))
 let imc = masa/(estatura*estatura)
