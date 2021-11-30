@@ -26,4 +26,4 @@ if(imc>= 40)
         }    
     }
 }
-document.getElementById ("parrafo").innerHTML= "Su IMC es"+imc+"y esta en la clasificacion"+clasificacion
+document.getElementById ("Respuesta").innerHTML= "Su IMC es"+imc+"y esta en la clasificacion"+clasificacion
